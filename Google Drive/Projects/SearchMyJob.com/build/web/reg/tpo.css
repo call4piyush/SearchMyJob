@@ -1,0 +1,25 @@
+/* 
+    Document   : tpo
+    Created on : Dec 7, 2013, 11:00:56 PM
+    Author     : sony
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+.tpo{
+               background-image: url("Untitled_1.jpg");
+               border-radius:25px;
+
+               border-style: solid;
+               border: 3px;
+               border-color: #ddb421;
+}

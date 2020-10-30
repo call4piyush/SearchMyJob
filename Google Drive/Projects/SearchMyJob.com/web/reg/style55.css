@@ -1,0 +1,66 @@
+/* 
+    Document   : style55
+    Created on : Dec 7, 2013, 5:28:28 PM
+    Author     : sony
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+            .style1{
+                color: white;
+                text-align: center;
+}
+.rt
+{
+    text-align: center;
+}
+  input[type=submit]
+            {   border-radius:25px;
+                height: 30px;
+                width: 170px;
+
+                background-color: #3F3F3F;
+                color: white;
+                font-size: 18px;
+                font-family: times new roman;
+                text-transform: uppercase;
+            }
+            .er{
+                color: #ffffff;
+                background-color:#55503b;
+                height: 40px;
+                border-radius:8px;
+                text-align: center;
+                text-transform: uppercase;
+                width: 120px;
+                border-style: dotted;
+                border-color: #ddb421;
+                 border-width: 1px;
+            }
+            .eu{
+              color: black;
+              border-width: 1px;
+               background-color:#3F3F3F;
+                height: 28px;
+                border-radius:8px;
+                text-align: center;
+                text-transform: uppercase;
+                width: 120px;
+                border-style: dotted;
+                border-color: #ddb421;
+                 border-left-style: double;
+                 color:wheat;
+                 padding-top: 14px;
+}
+.op{
+margin-top: -46px;
+}
+

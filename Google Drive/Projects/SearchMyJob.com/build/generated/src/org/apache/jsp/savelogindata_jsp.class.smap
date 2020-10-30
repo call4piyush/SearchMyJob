@@ -1,0 +1,18 @@
+SMAP
+savelogindata_jsp.java
+JSP
+*S JSP
+*F
++ 0 savelogindata.jsp
+savelogindata.jsp
+*L
+1,11:47
+11,28:58
+38:86
+39,2:87,3
+41:93
+42,19:95
+60:114
+61:115,3
+62,4:118
+*E

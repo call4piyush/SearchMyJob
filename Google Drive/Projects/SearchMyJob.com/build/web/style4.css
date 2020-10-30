@@ -1,0 +1,52 @@
+/* 
+    Document   : style4
+    Created on : Dec 4, 2013, 1:48:05 PM
+    Author     : sony
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+.style{
+   border-radius:9px;
+   color:#ddb421;
+   background-color:#404040;
+  text-align: center;
+ font-size: 18px;
+ border-color:#ffffff;
+ border-style: dashed;
+ border-color: #ddb421;
+ border-width: 1px;
+ height: 35px;
+}
+.d{
+   border-radius:10px;
+   color:coral;
+   font-size: 20px;
+ border-color: #ddb421;
+   background-color:#404040 ;
+text-align: center;
+text-transform: uppercase;
+border-style:double;
+border-width: 1px;
+height: 35px;
+}
+.style1{
+   border-radius:9px;
+   color:white;
+   background-color:#404040 ;
+  text-align: center;
+ font-size: 18px;
+ border-color:#ffffff;
+ border-style: dashed;
+ border-color: #ddb421;
+ border-width: 1px;
+ height: 35px;
+}

@@ -1,0 +1,14 @@
+SMAP
+savejobdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 savejobdetails.jsp
+savejobdetails.jsp
+*L
+1,25:46
+25,33:71
+57,5:104
+62:109,3
+63,8:112
+*E

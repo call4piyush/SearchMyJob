@@ -1,0 +1,61 @@
+/* 
+    Document   : style3
+    Created on : Dec 4, 2013, 12:56:11 PM
+    Author     : sony
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.p{
+    color: white;
+    height: 50px;
+    background-color: #3F3F3F;
+    border-radius:25px;
+    text-align: center;
+    width: 250px;
+    font-size: 20px;
+}
+.y{
+    border-radius:25px;
+    background-color: #3F3F3F;
+    
+}
+.st{
+    background-color: #3F3F3F;
+    border-radius:25px;
+    height: 50px;
+}
+
+input[type=text], input[type=password],select,.USS_TEXT{
+  padding: 0 10px;
+  width: 250px;
+  height: 40px;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  background: rgba(0, 0, 0, 0.16);
+  border: 0;
+  border-radius: 16px;
+  -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+  box-shadow: inset 0 5px 10px rgba(0, 0, 0, 1.00), 0 1px rgba(255, 255, 255, 0.06);
+  text-align: center;
+  margin-left: 150px;
+}
+input[type=submit]{
+    padding: 0 10px;
+  width: 200px;
+  height: 40px;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  background: rgba(0, 0, 0, 0.16);
+  border: 0;
+  border-radius: 16px;
+  -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+  box-shadow: inset 0 5px 10px rgba(0, 0, 0, 1.00), 0 1px rgba(255, 255, 255, 0.06);
+  text-align: center;
+ 
+}

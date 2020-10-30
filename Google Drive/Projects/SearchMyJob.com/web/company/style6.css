@@ -1,0 +1,211 @@
+/*
+    Document   : style1
+    Created on : Dec 2, 2013, 2:54:11 PM
+    Author     : sony
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+            #header-wrapper
+{
+
+}
+#header-wrapper2
+{
+
+
+}
+#header {
+	position: relative;
+	overflow: hidden;
+	height: 180px;
+}
+.container {
+	width: 1200px;
+	margin: 0px auto;
+}
+#logo {
+	position: absolute;
+	top: 1em;
+	left: 0;
+        color: white;
+}
+h9 {
+
+    margin: 0;
+    text-color: white;
+
+
+	text-transform: uppercase;
+	font-size: 108px;
+}
+h3{
+     color: white;
+
+	text-transform: uppercase;
+}
+#social
+{
+	position: absolute;
+	top: 7em;
+	right: 38px;
+}
+#menup {
+	overflow: hidden;
+
+}
+.current_page_item a {
+	text-decoration: none;
+
+}
+#menup ul {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px;
+	list-style: none;
+	line-height: normal;
+
+}
+
+#menup li {
+	display: inline-block;
+
+}
+
+#menup a {
+    font-family: Times New Roman;
+	display: block;
+	padding: 0px 40px 0px 40px;
+	line-height: 70px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 200;
+	color: rgba(255,255,255,0.5);
+        border: #ffffff;
+        
+
+}
+
+#menup a:hover, #menup .current_page_item a {
+	text-decoration: none;
+	background: url("images/overlay.png") repeat scroll 0 0 rgba(0, 0, 0, 0.39)
+}
+
+#menup .current_page_item a {
+    border-radius: 22px;
+}
+
+#menup .last {
+	border-right: none;
+}
+
+#menup {
+	overflow: hidden;
+
+}
+.current_page_item a {
+	text-decoration: none;
+
+}
+#menup ul {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px;
+	list-style: none;
+	line-height: normal;
+
+}
+
+#menup li {
+	display: inline-block;
+
+}
+
+#menup a {
+    font-family: Times New Roman;
+	display: block;
+	padding: 0px 35px 0px 20px;
+	line-height: 70px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 200;
+	color: rgba(255,255,255,0.5);
+        
+        
+
+}
+
+#menup a:hover, #menup .current_page_item a {
+	text-decoration: none;
+	background: #333 url(images/overlay.png) repeat;
+}
+
+#menup .current_page_item a {
+    border-radius: 22px;
+}
+
+#menup .last {
+	border-right: none;
+}
+p{
+    color: black;
+    text-transform: uppercase;
+    text-align: right;
+    font-size: 29px;
+   margin-bottom: 2px;
+ margin-top:-26px;
+ padding: 20px;
+ font-weight: bold;
+}
+.o{
+    color: #ddb421;
+        text-transform: uppercase;
+    text-align: right;
+    margin-right: -874px;
+    margin-top: -36px;
+
+}
+.l{
+    color:#ddb421;
+        text-transform: uppercase;
+    text-align: right;
+    margin-right: -874px;
+    margin-top: -36px;
+
+}
+.d{
+ color: #ddb421;
+        text-transform: uppercase;
+    text-align: right;
+    margin-right: 710px;
+    margin-top: -68px;
+}
+.f{
+
+ color: #ddb421;
+        text-transform: uppercase;
+    text-align: right;
+    margin-right: 289px;
+    margin-top: -79px;
+}
+.g{
+ color: #ddb421;
+        text-transform: uppercase;
+    text-align: right;
+    margin-right: 480px;
+    margin-top: -73px;
+}
+.df{
+ color: #ddb421;
+        text-transform: uppercase;
+    text-align: right;
+    margin-right: 710px;
+    margin-top: -68px;
+}

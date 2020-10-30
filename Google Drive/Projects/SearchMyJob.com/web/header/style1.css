@@ -1,0 +1,150 @@
+/* 
+    Document   : style1
+    Created on : Dec 2, 2013, 2:54:11 PM
+    Author     : sony
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+            #header-wrapper
+{
+    background-color:#3F3F3F;
+}
+#header {
+	position: relative;
+	overflow: hidden;
+	height: 180px;
+}
+.container {
+	width: 1200px;
+	margin: 0px auto;
+}
+#logo {
+	position: absolute;
+	top: 1em;
+	left: 0;
+        color: white;
+}
+h9 {
+
+    margin: 0;
+    text-color: white;
+
+
+	text-transform: uppercase;
+	font-size: 108px;
+}
+h3{
+     color: white;
+
+	text-transform: uppercase;
+}
+#social
+{
+	position: absolute;
+	top: 7em;
+	right: 38px;
+}
+#menu {
+	overflow: hidden;
+
+}
+.current_page_item a {
+	text-decoration: none;
+
+}
+#menu ul {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px;
+	list-style: none;
+	line-height: normal;
+
+}
+
+#menu li {
+	display: inline-block;
+
+}
+
+#menu a {
+    font-family: Times New Roman;
+	display: block;
+	padding: 0px 40px 0px 40px;
+	line-height: 70px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 200;
+	color: rgba(255,255,255,0.5);
+        border: #ffffff;
+        padding: 0 25px;
+
+}
+
+#menu a:hover, #menu .current_page_item a {
+	text-decoration: none;
+	background: #333 url(images/overlay.png) repeat;
+}
+
+#menu .current_page_item a {
+    border-radius: 22px;
+}
+
+#menu .last {
+	border-right: none;
+}
+
+#menu {
+	overflow: hidden;
+
+}
+.current_page_item a {
+	text-decoration: none;
+
+}
+#menu ul {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px;
+	list-style: none;
+	line-height: normal;
+
+}
+
+#menu li {
+	display: inline-block;
+
+}
+
+#menu a {
+    font-family: Times New Roman;
+	display: block;
+	padding: 0px 40px 0px 40px;
+	line-height: 70px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 200;
+	color: rgba(255,255,255,0.5);
+        border: #ffffff;
+        padding: 0 29px;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	text-decoration: none;
+	background: #333 url(images/overlay.png) repeat;
+}
+
+#menu .current_page_item a {
+    border-radius: 22px;
+}
+
+#menu .last {
+	border-right: none;
+}
